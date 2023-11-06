@@ -26,6 +26,6 @@ I welcome contributions and feedback from the community. If you have any valuabl
 
 ## License 📋
 
-This project is licensed under the [GNU License](LICENSE).
+This project is licensed under the [GPL License](LICENSE).
 
 Happy coding! 🌟
