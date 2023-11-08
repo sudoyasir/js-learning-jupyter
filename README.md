@@ -35,4 +35,3 @@ I welcome contributions and feedback from the community. If you have any valuabl
 This project is licensed under the [GPL License](LICENSE).
 
 Happy coding! 🌟
-```
