@@ -8,13 +8,16 @@ In this repository, you'll find Jupyter notebooks containing my progress, insigh
 
 ## Notebooks 📓
 
-- **JavaScript Basics:** Covers the fundamentals of JavaScript, including variables, functions, and control structures.
+1. **[JavaScript Basics](Basics/1.GettingStartedWithJS.ipynb):** Covers the fundamentals of JavaScript, including variables, functions, and control structures.
 
-- **JavaScript Events and Event Handling:** Explores JavaScript event handling, including common events and their associated event handlers.
+2. **[Functions in JavaScript](Basics/2.%20FunctionsInJs.ipynb):** Provides an in-depth understanding of creating and using functions in JavaScript.
 
-- **Working with Arrays and Objects in JavaScript:** Demonstrates the manipulation and usage of arrays and objects in JavaScript.
+3. **[JavaScript Events and Event Handling](Basics/3.%20EventHandeling.ipynb):** Explores JavaScript event handling, including common events and their associated event handlers.
 
-- **Functions in JavaScript:** Provides an in-depth understanding of creating and using functions in JavaScript.
+4. **[Working with Arrays and Objects in JavaScript](Basics/4.%20ArraysAndObjects.ipynb):** Demonstrates the manipulation and usage of arrays and objects in JavaScript.
+
+-
+
 
 ## Usage 🚀
 
