@@ -16,7 +16,11 @@ In this repository, you'll find Jupyter notebooks containing my progress, insigh
 
 4. **[Working with Arrays and Objects in JavaScript](Basics/4.%20ArraysAndObjects.ipynb):** Demonstrates the manipulation and usage of arrays and objects in JavaScript.
 
--
+5. **[Arrays in JavaScript](Basics/5.%20ArraysInJS.ipynb):** Comprehensive overview of arrays in JavaScript along with creation, manipulation, accessing elements, and built-in methods.
+
+6. **[Objects in JavaScript](Basics/6.%20ObjectsInJS.ipynb):** Guide to working with objects in JavaScript, covering creation, modification, property access, methods, and iteration.
+
+7. **[Loops in JavaScript](Basics/7.%20LoopsInJS.ipynb):** Comprehensive overview of loops in JavaScript, covering for, while, do-while, for-in, and for-of loops for efficient iterative operations.
 
 
 ## Usage 🚀
